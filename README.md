@@ -1,8 +1,28 @@
-# React + Vite
+# Pixel Music Landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for the landing page of Pixel Music, a web application for music streaming.
 
-Currently, two official plugins are available:
+# Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+● Visually appealing design
+
+● Clear calls to action
+
+● Highlights premium pricing (plans) of Pixel Music.
+
+
+# Technologies Used:
+
+● HTML
+
+● CSS (TailwindCSS)
+
+● JavaScript (React.js)
+
+# Contributing:
+
+I welcome contributions to improve the design and functionality of this landing page! Please create a pull request to share your changes.
+
+# License:
+
+This project is licensed under the MIT License (see LICENSE file for [details](https://mit-license.org/)).
