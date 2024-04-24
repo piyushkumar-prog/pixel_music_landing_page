@@ -19,6 +19,12 @@ This repository contains the code for the landing page of Pixel Music, a web app
 
 ● JavaScript (React.js)
 
+# Screenshots
+
+![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot1.png)
+![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot2.png)
+![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot3.png)
+
 # Contributing:
 
 I welcome contributions to improve the design and functionality of this landing page! Please create a pull request to share your changes.
