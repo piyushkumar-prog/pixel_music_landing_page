@@ -102,7 +102,7 @@ const CloseIcon = ({ fillColor }) => (
     xmlns="http://www.w3.org/2000/svg"
     className="w-8 h-8"
   >
-    <rect width="32" height="32" rx="16" fill="#F7F8F9" />
+    <rect width="32" height="32" rx="16" fill="#00000" />
     <path
       d="M20.2421 20.2426C20.5025 19.9822 20.5025 19.5601 20.2421 19.2997L16.9428 16.0004L20.243 12.7001C20.5034 12.4397 20.5034 12.0176 20.243 11.7573C19.9827 11.4969 19.5606 11.4969 19.3002 11.7573L15.9999 15.0576L12.6997 11.7573C12.4393 11.4969 12.0172 11.4969 11.7568 11.7573C11.4965 12.0176 11.4965 12.4397 11.7568 12.7001L15.0571 16.0004L11.7578 19.2997C11.4974 19.5601 11.4974 19.9822 11.7578 20.2426C12.0181 20.5029 12.4402 20.5029 12.7006 20.2426L15.9999 16.9432L19.2993 20.2426C19.5597 20.5029 19.9818 20.5029 20.2421 20.2426Z"
       fill={fillColor}
@@ -186,7 +186,7 @@ const PricingReact = () => {
         </span>
       </div>
       {/* pricing section   */}
-      <div className="flex flex-col lg:flex-row gap-6 h-full px-5">
+      <div className="flex flex-col lg:flex-row gap-6 h-full px-5 text-white">
         {pricingData.map((data, index) => (
           <div
             className={"cursor-pointer flex bg-white p-2 rounded-2xl bg-opacity-10 border border-white transition ease-in-out delay-150  hover:-translate--y-1 hover:scale-110 duration-300 ... shadow-inner ... shadow-white px-5 backdrop-filter backdrop-blur text-sm flex-col h-full max-w-[378px] py-6 sm:px-10 lg:w-auto xl:w-[378px]"}
@@ -196,7 +196,7 @@ const PricingReact = () => {
                 <span className="text-2xl">{data?.mainTitle}</span>
                 <span>{data?.infoNote}</span>
               </div>
-              <div className="flex items-center gap-3 my-4">
+              <div className="flex items-center gap-3 my-4 text-white">
                 <span className="text-6xl font-semibold">
                   ${monthPrice ? data?.monthlyPrice : data?.yerlyPrice}
                 </span>
