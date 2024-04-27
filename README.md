@@ -22,7 +22,7 @@ This repository contains the code for the landing page of Pixel Music, a web app
 # Screenshots
 
 ![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot1.png)
-![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot2.png)
+![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot,.png)
 ![Screenshot](https://github.com/piyushkumar-prog/pixel_music_landing_page/blob/main/screenshot3.png)
 
 # Contributing:
